@@ -1,0 +1,24 @@
+name = Commerce Userpoints Payment method
+description = Adds a payment provider which allows to pay with points.
+package = Custom
+core = 7.x
+
+dependencies[] = entity
+dependencies[] = userpoints
+dependencies[] = commerce
+dependencies[] = commerce_payment
+dependencies[] = commerce_userpoints
+
+; Information added by drush on 2013-02-27
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "commerce_userpoints"
+datestamp = "1361971919"
+
+
+; Information added by drupal.org packaging script on 2013-03-03
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "commerce_userpoints"
+datestamp = "1362314584"
+

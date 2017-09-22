@@ -1,0 +1,7 @@
+
+CHANGELOG for Taxonomy Permissions for Drupal 7
+
+
+taxonomy_permissions 7.x-1.x-dev:
+  - Initial commit of Taxonomy Permissions, a module to add more permissions to the Taxonomy core module.
+

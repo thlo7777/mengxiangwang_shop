@@ -1,0 +1,13 @@
+name = Taxonomy Permissions
+description = Adds the missing 'view' permissions to the Taxonomy module.
+dependencies[] = taxonomy
+package = Other
+core = 7.x
+
+
+; Information added by drupal.org packaging script on 2013-05-05
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "taxonomy_permissions"
+datestamp = "1367718792"
+
